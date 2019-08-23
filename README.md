@@ -8,3 +8,5 @@ preprocessing-birnn-contrastive 为加入预处理的模型
 
 testcsv.csv为原始模型在测试中的结果
 testcsv2.csv为加入预处理的模型在测试中的结果
+
+第一次弄这些，多多指教...
